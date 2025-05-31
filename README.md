@@ -47,5 +47,8 @@ lunar-landing-optimization/
     ├── lunar_landing_states.png
     └── lunar_landing_trajectory.png
 
+Reza Arghand
+Arghand.eng@gmail.com
+
     
 
