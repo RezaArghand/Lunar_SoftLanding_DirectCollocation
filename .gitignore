@@ -30,6 +30,9 @@ env/
 .venv/
 env.bak/
 venv.bak/
+.env/
+.gitignore
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
